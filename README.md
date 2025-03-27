@@ -1,5 +1,10 @@
 # Personalized-AI-Powered-Diet-Planning-System
 
+# 模型下載說明
+
+- 請從以下連結下載 Taide 模型檔案：
+- [下載模型 - Google Drive](https://drive.google.com/file/d/1HQz-g2QBakQlPVrSrLDVdf4TRDkrsxL_/view?usp=drive_link)
+
 # 1. 專案背景與目的
 
 現代人對於健康飲食越來越重視，但依賴營養師提供的膳食計劃成本高昂，且手動設計過程繁瑣。
