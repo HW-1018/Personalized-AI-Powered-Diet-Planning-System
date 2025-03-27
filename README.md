@@ -45,9 +45,9 @@
 ```
 .
 ├── healthy_food_genetator.py  # 主程式，根據使用者數據生成膳食計劃
-├── meal_plan.pdf              # 結果生成的七天飲食計劃
+├── docs                       # 結果生成的七天飲食計劃和系統範例
 ├── README.md                  # GitHub 專案說明文件
-└── /Noto_Sans_TC/             # 隱含繁體中文字型
+└── requirement.txt            # 所需 python套件
 ```
 
 # 6. 專案特色
